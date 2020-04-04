@@ -10,7 +10,7 @@ Enables a number of optional features including:
  * RepRapDiscount Full Graphic LCD display
  * Cancel objects
 
-Confirmed working for Marlin 2.0.x, specifically 2.0.5.3
+Confirmed working for Marlin `2.0.x`, specifically `2.0.5.3`
 
-You need to take these files and copy (link) them into the Marlin sub-directory of the Marlin firmware repo. These files replace the existing .h files. If you are interested in my modifications use your favourite diff tool to see what I have changed.
+You need to take these files and copy (link) them into the `Marlin` sub-directory of the Marlin firmware repo. These files replace the existing `.h` files in that directory. If you are interested in my modifications use your favourite diff tool to see what I have changed.
 
