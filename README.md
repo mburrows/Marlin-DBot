@@ -4,7 +4,6 @@ Configuration files for my D-Bot CoreXY printer. Use with caution as my setup ma
 
 Enables a number of optional features including:
  * BLTouch probe and bi-linear auto bed-levelling
- * S-Curve acceleration 
  * Linear Advance
  * Babystepping (aka Z-probe height adjustment)
  * RepRapDiscount Full Graphic LCD display
